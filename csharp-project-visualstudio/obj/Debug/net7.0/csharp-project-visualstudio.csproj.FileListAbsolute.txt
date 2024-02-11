@@ -1,0 +1,17 @@
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/bin/Debug/net7.0/csharp-project-visualstudio
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/bin/Debug/net7.0/csharp-project-visualstudio.deps.json
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/bin/Debug/net7.0/csharp-project-visualstudio.runtimeconfig.json
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/bin/Debug/net7.0/csharp-project-visualstudio.dll
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/bin/Debug/net7.0/csharp-project-visualstudio.pdb
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/csharp-project-visualstudio.csproj.AssemblyReference.cache
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/csharp-project-visualstudio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/csharp-project-visualstudio.AssemblyInfoInputs.cache
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/csharp-project-visualstudio.AssemblyInfo.cs
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/csharp-project-visualstudio.csproj.CoreCompileInputs.cache
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/csharp-project-visualstudio.csproj.CopyComplete
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/csharp-project-visualstudio.dll
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/refint/csharp-project-visualstudio.dll
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/csharp-project-visualstudio.pdb
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/csharp-project-visualstudio.genruntimeconfig.cache
+/Users/prmes/Projects/csharp-project-visualstudio/csharp-project-visualstudio/obj/Debug/net7.0/ref/csharp-project-visualstudio.dll
